@@ -19,12 +19,24 @@ h1{
   display: flex;
   flex-direction: column;
   align-items: center;
+  
 }
 
-.list{
+.listInput{
   margin-bottom: 3%;
 }
 
 .answer{
-  text-align: center;
+  margin-left: 25%;
+  border: 2px solid black;
+  width:50%;
+  height: 30vh;
+}
+
+.sub{
+  margin-bottom: 2%;
+}
+
+.clear{
+  margin-bottom: 2%;
 }
